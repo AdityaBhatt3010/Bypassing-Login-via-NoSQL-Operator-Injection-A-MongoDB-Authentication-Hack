@@ -222,9 +222,9 @@ Stay curious, stay sharp — and remember, **never trust user input**.
 
 I regularly post about **ethical hacking**, **bug bounties**, and **real-world exploitation** techniques.
 
-🛡 [GitHub](https://github.com/AdityaBhatt3010)
-✍️ [Medium @adityabhatt3010](https://medium.com/@adityabhatt3010)
-🔗 [LinkedIn](https://www.linkedin.com/in/adityabhatt3010/)
+🛡 [GitHub](https://github.com/AdityaBhatt3010) <br/>
+✍️ [Medium @adityabhatt3010](https://medium.com/@adityabhatt3010) <br/>
+🔗 [LinkedIn](https://www.linkedin.com/in/adityabhatt3010/) <br/>
 
 ---
 
