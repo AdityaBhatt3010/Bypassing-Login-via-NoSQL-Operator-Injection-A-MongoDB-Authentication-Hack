@@ -7,6 +7,8 @@
 **Difficulty: 🟠 Apprentice** <br/>
 **Status: ✅ Lab Solved** <br/>
 
+![Cover](https://github.com/user-attachments/assets/18ec2e44-cab0-4651-8c4d-8f55d720074d) <br/>
+
 ---
 
 ## 📌 TL;DR
