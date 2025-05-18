@@ -168,7 +168,7 @@ Looking at the response confirms I’ve successfully bypassed authentication and
 
 ### 7️⃣ Finishing Touch
 
-I right-click the response, choose **“Show in Browser > In Current Session”**, and open the copied URL.
+I right-click the response, choose **“Show in Browser > In Original Session”**, and open the copied URL.
 
 ![10](https://github.com/user-attachments/assets/7e9721a0-f47d-44ca-b8ac-ea4f5579603d) <br/>
 
